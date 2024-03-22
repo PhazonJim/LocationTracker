@@ -1,0 +1,676 @@
+{
+  "Spawns": [
+    {
+      "origin": "Adult Spawn",
+      "vanilla": "Temple of Time"
+    },
+    {
+      "origin": "Child Spawn",
+      "vanilla": "KF Links House"
+    }
+  ],
+  "Warp Songs": [
+    {
+      "origin": "Serenade of Water Warp",
+      "vanilla": "Lake Hylia"
+    },
+    {
+      "origin": "Bolero of Fire Warp",
+      "vanilla": "DMC Central Local"
+    },
+    {
+      "origin": "Minuet of Forest Warp",
+      "vanilla": "Sacred Forest Meadow"
+    },
+    {
+      "origin": "Nocturne of Shadow Warp",
+      "vanilla": "Graveyard Warp Pad Region"
+    },
+    {
+      "origin": "Prelude of Light Warp",
+      "vanilla": "Temple of Time"
+    },
+    {
+      "origin": "Requiem of Spirit Warp",
+      "vanilla": "Desert Colossus"
+    }
+  ],
+  "Owl Warps": [
+    {
+      "origin": "DMT Owl Flight",
+      "vanilla": "Kak Impas Rooftop"
+    },
+    {
+      "origin": "LH Owl Flight",
+      "vanilla": "Hyrule Field"
+    }
+  ],
+  "Hyrule Castle": [
+    {
+      "origin": "Hyrule Castle Grounds",
+      "vanilla": "HC Great Fairy Fountain"
+    },
+    {
+      "origin": "Hyrule Castle Grounds",
+      "vanilla": "HC Storms Grotto"
+    }
+  ],
+  "Death Mountain Crater": [
+    {
+      "origin": "DMC Fire Temple Entrance",
+      "vanilla": "Fire Temple Lower"
+    },
+    {
+      "origin": "DMC Lower Local",
+      "vanilla": "DMC Great Fairy Fountain"
+    },
+    {
+      "origin": "DMC Lower Local",
+      "vanilla": "DMC Hammer Grotto"
+    },
+    {
+      "origin": "DMC Lower Local",
+      "vanilla": "GC Darunias Chamber"
+    },
+    {
+      "origin": "DMC Upper Local",
+      "vanilla": "DMC Upper Grotto"
+    },
+    {
+      "origin": "DMC Upper Local",
+      "vanilla": "Death Mountain Summit"
+    }
+  ],
+  "Death Mountain": [
+    {
+      "origin": "Death Mountain",
+      "vanilla": "DMT Storms Grotto"
+    },
+    {
+      "origin": "Death Mountain",
+      "vanilla": "Dodongos Cavern Beginning"
+    },
+    {
+      "origin": "Death Mountain",
+      "vanilla": "Goron City"
+    },
+    {
+      "origin": "Death Mountain",
+      "vanilla": "Kak Behind Gate"
+    },
+    {
+      "origin": "Death Mountain Summit",
+      "vanilla": "DMC Upper Local"
+    },
+    {
+      "origin": "Death Mountain Summit",
+      "vanilla": "DMT Cow Grotto"
+    },
+    {
+      "origin": "Death Mountain Summit",
+      "vanilla": "DMT Great Fairy Fountain"
+    }
+  ],
+  "Desert Colossus": [
+    {
+      "origin": "Desert Colossus",
+      "vanilla": "Colossus Great Fairy Fountain"
+    },
+    {
+      "origin": "Desert Colossus",
+      "vanilla": "Colossus Grotto"
+    },
+    {
+      "origin": "Desert Colossus",
+      "vanilla": "Spirit Temple Lobby"
+    },
+    {
+      "origin": "Desert Colossus",
+      "vanilla": "Wasteland Near Colossus"
+    },
+    {
+      "origin": "Desert Colossus From Spirit Lobby",
+      "vanilla": "Spirit Temple Lobby"
+    }
+  ],
+  "Goron City": [
+    {
+      "origin": "Goron City",
+      "vanilla": "Death Mountain"
+    },
+    {
+      "origin": "Goron City",
+      "vanilla": "GC Shop"
+    },
+    {
+      "origin": "GC Darunias Chamber",
+      "vanilla": "DMC Lower Local"
+    },
+    {
+      "origin": "GC Grotto Platform",
+      "vanilla": "GC Grotto"
+    },
+    {
+      "origin": "GC Woods Warp",
+      "vanilla": "Lost Woods"
+    }
+  ],
+  "Gerudo Fortress": [
+    {
+      "origin": "Gerudo Fortress",
+      "vanilla": "GV Fortress Side"
+    },
+    {
+      "origin": "Gerudo Fortress",
+      "vanilla": "Gerudo Training Ground Lobby"
+    },
+    {
+      "origin": "GF Entrances Behind Crates",
+      "vanilla": "GF Storms Grotto"
+    },
+    {
+      "origin": "GF Outside Gate",
+      "vanilla": "Wasteland Near Fortress"
+    }
+  ],
+  "Gerudo Valley": [
+    {
+      "origin": "Gerudo Valley",
+      "vanilla": "Hyrule Field"
+    },
+    {
+      "origin": "GV Fortress Side",
+      "vanilla": "GV Carpenter Tent"
+    },
+    {
+      "origin": "GV Fortress Side",
+      "vanilla": "GV Storms Grotto"
+    },
+    {
+      "origin": "GV Fortress Side",
+      "vanilla": "Gerudo Fortress"
+    },
+    {
+      "origin": "GV Grotto Ledge",
+      "vanilla": "GV Octorok Grotto"
+    },
+    {
+      "origin": "GV Lower Stream",
+      "vanilla": "Lake Hylia"
+    }
+  ],
+  "Graveyard": [
+    {
+      "origin": "Graveyard",
+      "vanilla": "Graveyard Dampes Grave"
+    },
+    {
+      "origin": "Graveyard",
+      "vanilla": "Graveyard Dampes House"
+    },
+    {
+      "origin": "Graveyard",
+      "vanilla": "Graveyard Heart Piece Grave"
+    },
+    {
+      "origin": "Graveyard",
+      "vanilla": "Graveyard Royal Familys Tomb"
+    },
+    {
+      "origin": "Graveyard",
+      "vanilla": "Graveyard Shield Grave"
+    },
+    {
+      "origin": "Graveyard",
+      "vanilla": "Kakariko Village"
+    },
+    {
+      "origin": "Graveyard Warp Pad Region",
+      "vanilla": "Shadow Temple Entryway"
+    }
+  ],
+  "Hyrule Field": [
+    {
+      "origin": "Hyrule Field",
+      "vanilla": "Gerudo Valley"
+    },
+    {
+      "origin": "Hyrule Field",
+      "vanilla": "HF Cow Grotto"
+    },
+    {
+      "origin": "Hyrule Field",
+      "vanilla": "HF Fairy Grotto"
+    },
+    {
+      "origin": "Hyrule Field",
+      "vanilla": "HF Inside Fence Grotto"
+    },
+    {
+      "origin": "Hyrule Field",
+      "vanilla": "HF Near Kak Grotto"
+    },
+    {
+      "origin": "Hyrule Field",
+      "vanilla": "HF Near Market Grotto"
+    },
+    {
+      "origin": "Hyrule Field",
+      "vanilla": "HF Open Grotto"
+    },
+    {
+      "origin": "Hyrule Field",
+      "vanilla": "HF Southeast Grotto"
+    },
+    {
+      "origin": "Hyrule Field",
+      "vanilla": "HF Tektite Grotto"
+    },
+    {
+      "origin": "Hyrule Field",
+      "vanilla": "Kakariko Village"
+    },
+    {
+      "origin": "Hyrule Field",
+      "vanilla": "LW Bridge"
+    },
+    {
+      "origin": "Hyrule Field",
+      "vanilla": "Lake Hylia"
+    },
+    {
+      "origin": "Hyrule Field",
+      "vanilla": "Lon Lon Ranch"
+    },
+    {
+      "origin": "Hyrule Field",
+      "vanilla": "Market Entrance"
+    },
+    {
+      "origin": "Hyrule Field",
+      "vanilla": "ZR Front"
+    }
+  ],
+  "Kakariko Village": [
+    {
+      "origin": "Kakariko Village",
+      "vanilla": "Bottom of the Well"
+    },
+    {
+      "origin": "Kakariko Village",
+      "vanilla": "Graveyard"
+    },
+    {
+      "origin": "Kakariko Village",
+      "vanilla": "Hyrule Field"
+    },
+    {
+      "origin": "Kakariko Village",
+      "vanilla": "Kak Bazaar"
+    },
+    {
+      "origin": "Kakariko Village",
+      "vanilla": "Kak Carpenter Boss House"
+    },
+    {
+      "origin": "Kakariko Village",
+      "vanilla": "Kak House of Skulltula"
+    },
+    {
+      "origin": "Kakariko Village",
+      "vanilla": "Kak Impas House"
+    },
+    {
+      "origin": "Kakariko Village",
+      "vanilla": "Kak Potion Shop Front"
+    },
+    {
+      "origin": "Kakariko Village",
+      "vanilla": "Kak Redead Grotto"
+    },
+    {
+      "origin": "Kakariko Village",
+      "vanilla": "Kak Shooting Gallery"
+    },
+    {
+      "origin": "Kakariko Village",
+      "vanilla": "Kak Windmill"
+    },
+    {
+      "origin": "Kak Backyard",
+      "vanilla": "Kak Odd Medicine Building"
+    },
+    {
+      "origin": "Kak Backyard",
+      "vanilla": "Kak Open Grotto"
+    },
+    {
+      "origin": "Kak Backyard",
+      "vanilla": "Kak Potion Shop Back"
+    },
+    {
+      "origin": "Kak Behind Gate",
+      "vanilla": "Death Mountain"
+    },
+    {
+      "origin": "Kak Impas Ledge",
+      "vanilla": "Kak Impas House Back"
+    }
+  ],
+  "Kokiri Forest": [
+    {
+      "origin": "Kokiri Forest",
+      "vanilla": "KF House of Twins"
+    },
+    {
+      "origin": "Kokiri Forest",
+      "vanilla": "KF Know It All House"
+    },
+    {
+      "origin": "Kokiri Forest",
+      "vanilla": "KF Kokiri Shop"
+    },
+    {
+      "origin": "Kokiri Forest",
+      "vanilla": "KF Links House"
+    },
+    {
+      "origin": "Kokiri Forest",
+      "vanilla": "KF Midos House"
+    },
+    {
+      "origin": "Kokiri Forest",
+      "vanilla": "KF Sarias House"
+    },
+    {
+      "origin": "Kokiri Forest",
+      "vanilla": "KF Storms Grotto"
+    },
+    {
+      "origin": "Kokiri Forest",
+      "vanilla": "LW Bridge"
+    },
+    {
+      "origin": "Kokiri Forest",
+      "vanilla": "Lost Woods"
+    },
+    {
+      "origin": "KF Outside Deku Tree",
+      "vanilla": "Deku Tree Lobby"
+    }
+  ],
+  "Lost Woods": [
+    {
+      "origin": "LW Beyond Mido",
+      "vanilla": "Deku Theater"
+    },
+    {
+      "origin": "LW Beyond Mido",
+      "vanilla": "LW Scrubs Grotto"
+    },
+    {
+      "origin": "LW Beyond Mido",
+      "vanilla": "SFM Entryway"
+    },
+    {
+      "origin": "LW Bridge",
+      "vanilla": "Hyrule Field"
+    },
+    {
+      "origin": "LW Bridge",
+      "vanilla": "Kokiri Forest"
+    },
+    {
+      "origin": "LW Forest Exit",
+      "vanilla": "Kokiri Forest"
+    },
+    {
+      "origin": "LW Underwater Entrance",
+      "vanilla": "Zora River"
+    },
+    {
+      "origin": "Lost Woods",
+      "vanilla": "GC Woods Warp"
+    },
+    {
+      "origin": "Lost Woods",
+      "vanilla": "Kokiri Forest"
+    },
+    {
+      "origin": "Lost Woods",
+      "vanilla": "LW Near Shortcuts Grotto"
+    },
+    {
+      "origin": "Lost Woods",
+      "vanilla": "Zora River"
+    }
+  ],
+  "Lake Hylia": [
+    {
+      "origin": "Lake Hylia",
+      "vanilla": "GV Lower Stream"
+    },
+    {
+      "origin": "Lake Hylia",
+      "vanilla": "Hyrule Field"
+    },
+    {
+      "origin": "Lake Hylia",
+      "vanilla": "LH Grotto"
+    },
+    {
+      "origin": "Lake Hylia",
+      "vanilla": "LH Lab"
+    },
+    {
+      "origin": "Lake Hylia",
+      "vanilla": "Water Temple Lobby"
+    },
+    {
+      "origin": "Lake Hylia",
+      "vanilla": "Zoras Domain"
+    },
+    {
+      "origin": "LH Fishing Island",
+      "vanilla": "LH Fishing Hole"
+    }
+  ],
+  "Lon Lon Ranch": [
+    {
+      "origin": "Lon Lon Ranch",
+      "vanilla": "Hyrule Field"
+    },
+    {
+      "origin": "Lon Lon Ranch",
+      "vanilla": "LLR Grotto"
+    },
+    {
+      "origin": "Lon Lon Ranch",
+      "vanilla": "LLR Stables"
+    },
+    {
+      "origin": "Lon Lon Ranch",
+      "vanilla": "LLR Talons House"
+    },
+    {
+      "origin": "Lon Lon Ranch",
+      "vanilla": "LLR Tower"
+    }
+  ],
+  "Market": [
+    {
+      "origin": "Market",
+      "vanilla": "Castle Grounds"
+    },
+    {
+      "origin": "Market",
+      "vanilla": "Market Bazaar"
+    },
+    {
+      "origin": "Market",
+      "vanilla": "Market Bombchu Bowling"
+    },
+    {
+      "origin": "Market",
+      "vanilla": "Market Entrance"
+    },
+    {
+      "origin": "Market",
+      "vanilla": "Market Mask Shop"
+    },
+    {
+      "origin": "Market",
+      "vanilla": "Market Potion Shop"
+    },
+    {
+      "origin": "Market",
+      "vanilla": "Market Shooting Gallery"
+    },
+    {
+      "origin": "Market",
+      "vanilla": "Market Treasure Chest Game"
+    },
+    {
+      "origin": "Market",
+      "vanilla": "ToT Entrance"
+    },
+    {
+      "origin": "Market Back Alley",
+      "vanilla": "Market Bombchu Shop"
+    },
+    {
+      "origin": "Market Back Alley",
+      "vanilla": "Market Man in Green House"
+    }
+  ],
+  "Market Entrance": [
+    {
+      "origin": "Market Entrance",
+      "vanilla": "Hyrule Field"
+    },
+    {
+      "origin": "Market Entrance",
+      "vanilla": "Market"
+    },
+    {
+      "origin": "Market Entrance",
+      "vanilla": "Market Guard House"
+    }
+  ],
+  "Sacred Forest Meadow": [
+    {
+      "origin": "SFM Entryway",
+      "vanilla": "LW Beyond Mido"
+    },
+    {
+      "origin": "SFM Entryway",
+      "vanilla": "SFM Wolfos Grotto"
+    },
+    {
+      "origin": "SFM Forest Temple Entrance Ledge",
+      "vanilla": "Forest Temple Lobby"
+    },
+    {
+      "origin": "Sacred Forest Meadow",
+      "vanilla": "SFM Fairy Grotto"
+    },
+    {
+      "origin": "Sacred Forest Meadow",
+      "vanilla": "SFM Storms Grotto"
+    }
+  ],
+  "Temple of Time Courtyard": [
+    {
+      "origin": "ToT Entrance",
+      "vanilla": "Market"
+    },
+    {
+      "origin": "ToT Entrance",
+      "vanilla": "Temple of Time"
+    }
+  ],
+  "Wasteland": [
+    {
+      "origin": "Wasteland Near Colossus",
+      "vanilla": "Desert Colossus"
+    },
+    {
+      "origin": "Wasteland Near Fortress",
+      "vanilla": "GF Outside Gate"
+    }
+  ],
+  "Zora River": [
+    {
+      "origin": "ZR Front",
+      "vanilla": "Hyrule Field"
+    },
+    {
+      "origin": "Zora River",
+      "vanilla": "LW Underwater Entrance"
+    },
+    {
+      "origin": "Zora River",
+      "vanilla": "ZR Fairy Grotto"
+    },
+    {
+      "origin": "Zora River",
+      "vanilla": "ZR Open Grotto"
+    },
+    {
+      "origin": "Zora River",
+      "vanilla": "ZR Storms Grotto"
+    },
+    {
+      "origin": "ZR Behind Waterfall",
+      "vanilla": "Zoras Domain"
+    },
+    {
+      "origin": "ZR Top of Waterfall",
+      "vanilla": "Zora River"
+    }
+  ],
+  "Zoras Domain": [
+    {
+      "origin": "Zoras Domain",
+      "vanilla": "Lake Hylia"
+    },
+    {
+      "origin": "Zoras Domain",
+      "vanilla": "ZD Shop"
+    },
+    {
+      "origin": "Zoras Domain",
+      "vanilla": "ZD Storms Grotto"
+    },
+    {
+      "origin": "Zoras Domain",
+      "vanilla": "ZR Behind Waterfall"
+    },
+    {
+      "origin": "ZD Behind King Zora",
+      "vanilla": "Zoras Fountain"
+    },
+    {
+      "origin": "ZD Eyeball Frog Timeout",
+      "vanilla": "Zoras Domain"
+    }
+  ],
+  "Zoras Fountain": [
+    {
+      "origin": "Zoras Fountain",
+      "vanilla": "Jabu Jabus Belly Beginning"
+    },
+    {
+      "origin": "Zoras Fountain",
+      "vanilla": "ZD Behind King Zora"
+    },
+    {
+      "origin": "Zoras Fountain",
+      "vanilla": "ZF Great Fairy Fountain"
+    },
+    {
+      "origin": "ZF Ice Ledge",
+      "vanilla": "Ice Cavern Beginning"
+    }
+  ]
+}
